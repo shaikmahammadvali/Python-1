@@ -1,0 +1,8 @@
+def display(str, int_x, float_y):
+   print("string:",str)
+   print("integer:",int_x)
+   print("float:",float_y)
+s="florida"
+x=1234
+y=2.455
+display(str=s,int_x=x,float_y=y)
